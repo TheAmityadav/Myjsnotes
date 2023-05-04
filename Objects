@@ -8,7 +8,7 @@
 const Person = {
     Name: "Amit",
     age: 20,
-    hobbies: ["Misic", "playing"]
+    hobbies: ["Music", "playing"]
 }
 console.log(Person);
 
