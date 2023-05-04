@@ -1,0 +1,23 @@
+// Objets is refenrence type
+// Objects does not have index 
+// Objects store Key value pairs
+
+
+// How to create a Object 
+
+const Person = {
+    Name: "Amit",
+    age: 20,
+    hobbies: ["Misic", "playing"]
+}
+console.log(Person);
+
+// how to get any Key valur pair from object 
+
+console.log(Person.age)
+
+// How to add a new key value pair in the Objets
+
+Person.gender = "Male"
+
+console.log(Person);
