@@ -15,12 +15,12 @@ console.log(Person);
 // how to get any Key value pair from object 
 
 console.log(Person.age)
-console.log(Person["Name"])  //we can use this *bracekt Notation* method also to acess the key value pair
+console.log(Person["Name"])  //we can use this *BRACKET NOTATION* method also to acess the key value pair
 
 
 // How to add a new key value pair in the Objets
 
-Person.gender = "Male"    //we pushed a new value in our object using dot notation
+Person.gender = "Male"    //we pushed a new value in our object using *DOT NOTATION*
 Person["class"] = "12th"  //we pushed a new key value pair using * BRACKET NOTATION*
 
 console.log(Person);
